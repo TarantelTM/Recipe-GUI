@@ -1,6 +1,6 @@
-![Supported versions](https://cf.way2muchnoise.eu/versions/637442.svg?badge_style=for_the_badge) &emsp; &nbsp; ![Downloads](https://cf.way2muchnoise.eu/full_637442_downloads.svg?badge_style=for_the_badge)
+[![Supported versions](https://cf.way2muchnoise.eu/versions/637442.svg?badge_style=for_the_badge)](https://www.curseforge.com/minecraft/mc-mods/recipe-gui) &emsp; &nbsp; [![Downloads](https://cf.way2muchnoise.eu/full_637442_downloads.svg?badge_style=for_the_badge)](https://www.curseforge.com/minecraft/mc-mods/recipe-gui)
 
-# ![Recipe GUI logo](https://media.forgecdn.net/avatars/thumbnails/563/608/64/64/637918905833323522.png) Recipe GUI 
+# [![Recipe GUI logo](icon.png)](https://www.curseforge.com/minecraft/mc-mods/recipe-gui) Recipe GUI
 
 Create your own crafting recipes in-game without the use of scripts! All you need to use is the `/r_gui` command to open up the interface. (`/ctg` for version 0.03) See the [wiki](https://tarantel.gitbook.io/recipe-gui-vanilla-crafttweaker-kubejs/) for more specifics on how to use the mod.
 

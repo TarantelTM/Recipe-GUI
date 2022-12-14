@@ -15,8 +15,7 @@ Create your own crafting recipes in-game without the use of scripts! All you nee
   - [Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2) Inscriber and Grinder Recipes
 
 ## Planned Support
-- Recipe manipulation without CraftTweaker or KubeJS.
-- Extended Crafting, Botania, Mekanism, Immersive Engineering, Blood Magic, Pedestals and much more.
+- Extended Crafting, Create, Botania, Mekanism, Immersive Engineering, Blood Magic, Pedestals and much more.
 
 ## Current Progress for upcoming version in 1.16.5:
 - Create - 50% (CT and KubeJS)

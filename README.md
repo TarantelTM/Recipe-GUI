@@ -19,7 +19,7 @@ Create your own crafting recipes in-game without the use of scripts! All you nee
 
 ## Current Progress for upcoming version in 1.16.5:
 - Create - 50% (CT and KubeJS)
-- Applied Energistics 2 - 50% (CT and KubeJS)
+- Applied Energistics 2 - 99% (CT and KubeJS)
 - Botania - 0% 
 - Tinkers Construct - 0%
 - Blood Magic - 0%

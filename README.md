@@ -18,4 +18,17 @@ Create your own crafting recipes in-game without the use of scripts! All you nee
 - Recipe manipulation without CraftTweaker or KubeJS.
 - Extended Crafting, Botania, Mekanism, Immersive Engineering, Blood Magic, Pedestals and much more.
 
+## Current Progress for upcoming version in 1.16.5:
+- Create - 50% (CT and KubeJS)
+- Applied Energistics 2 - 50% (CT and KubeJS)
+- Botania - 0% 
+- Tinkers Construct - 0%
+- Blood Magic - 0%
+- Mekanism - 0%
+- Immersive Engineering - 0%
+- Thermal Expansion - 0%
+- After finishing all planned integrations - upgrade to 1.18.2 and 1.19.2 planned.
+- Load My Resources support removed because of problems with some json recipes.
+
+
 ### Check out my other mod, [Roost Ultimate](https://www.curseforge.com/minecraft/mc-mods/roost-ultimate)!

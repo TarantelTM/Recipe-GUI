@@ -2,7 +2,7 @@
 
 # [![Recipe GUI logo](icon.png)](https://www.curseforge.com/minecraft/mc-mods/recipe-gui) Recipe GUI
 
-Create your own crafting recipes in-game without the use of scripts! All you need to use is the `/r_gui` command to open up the interface. (`/ctg` for version 0.03) See the [wiki](https://tarantel.gitbook.io/recipe-gui-vanilla-crafttweaker-kubejs/) for more specifics on how to use the mod.
+Create your own crafting recipes in-game without the use of scripts! All you need to use is the `/r_gui` command to open up the interface. (`/ctg` for version 0.03 or lower) See the [wiki](https://tarantel.gitbook.io/recipe-gui-vanilla-crafttweaker-kubejs/) for more specifics on how to use the mod.
 
 ## Required Mods
 - [CraftTweaker](https://www.curseforge.com/minecraft/mc-mods/crafttweaker) or [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs)
